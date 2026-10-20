@@ -1,9 +1,9 @@
 cask "dubbingmate" do
   arch arm: "arm64", intel: "x64"
 
-  version "0.1.31"
-  sha256 arm:   "df5dcf1b34be086de12a354399daaf39cbf40c298440678bd1d32691bee4ee94",
-         intel: "b41605c58033c850e2e413f33125f3b8a659b825d3a13d3efcf8c4f2a879c06d"
+  version "0.1.32"
+  sha256 arm:   "d71a5e5be20273c1c4c3757b59b3a99a22d87dda8edf63a549a178a06f00474c",
+         intel: "2b970f320a464555a0e328bbf5a95847fa984b6cb3cd739512dad538707c4b0e"
 
   url "https://dubbingmate.com/download/updates/DubbingMate-#{version}-#{arch}.dmg"
   name "DubbingMate"
